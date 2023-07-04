@@ -2,7 +2,7 @@ type:
   service
 
 title:
-  test-title
+  yml service 2
 
 description:
   test-description
